@@ -1,0 +1,55 @@
+/*JUMBOTRON*/
+.jumbotron {
+    background: 
+    linear-gradient(
+        rgba(244, 95, 54, 0.4),
+        rgba(244, 95, 54, 0.4)
+    ),
+    url("/images/leximphoto-427140-unsplash.png");
+    background-color: white;
+    background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+
+.jumbotron h1 {
+    font-family: 'Metal Mania', cursive;
+	font-size: 65px;
+	text-transform: uppercase;
+	font-weight: 900;
+    color: #F46036;
+    -webkit-text-stroke-width: .25px;
+    -webkit-text-stroke-color: rgba(0, 0, 0, 0.1);
+    text-shadow:
+    3px 3px 0 #fff,
+  -1px -1px 0 #fff,  
+   1px -1px 0 #fff,
+   -1px 1px 0 #fff,
+    1px 1px 0 #fff;
+}
+
+.jumbotron p {
+    font-family: 'New Rocker', cursive; 
+    color:white;
+	font-size: 18px;
+	font-weight: 500;
+    text-shadow:
+    .5px .5px 0 #000,
+    .5px .5px 0 #000,  
+    .5px .5px 0 #000,
+    .5px .5px 0 #000,
+    .5px .5px 0 #000,
+     0 0 5px rgba(255, 255, 255, 0.5);
+    ;
+}
+
+/* font-family: 'Special Elite', cursive;
+font-family: 'Creepster', cursive;
+font-family: 'Trade Winds', cursive;
+font-family: 'Metal Mania', cursive;
+font-family: 'New Rocker', cursive; */

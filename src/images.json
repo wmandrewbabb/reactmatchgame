@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "name": "Beetlejuice",
+      "clicked": false,
+      "image":
+        "images/monsters/beetlejuice.png"
+    },
+    {
+      "id": 2,
+      "name": "Blair",
+      "clicked": false,
+      "image":
+        "images/monsters/blair.png"
+    },
+    {
+      "id": 3,
+      "name": "Chucky",
+      "clicked": false,
+      "image":
+        "images/monsters/chucky.png"
+    },
+    {
+      "id": 4,
+      "name": "The Devil",
+      "clicked": false,
+      "image":
+        "images/monsters/devil.png"
+    },
+    {
+      "id": 5,
+      "name": "Dracula",
+      "clicked": false,
+      "image":
+        "images/monsters/dracula.png"
+    },
+    {
+      "id": 6,
+      "name": "Frankenstein",
+      "clicked": false,
+      "image":
+        "images/monsters/frank.png"
+    },
+    {
+      "id": 7,
+      "name": "Freddy",
+      "clicked": false,
+      "image":
+        "images/monsters/freddy.png"
+    },
+    {
+      "id": 8,
+      "name": "Ghostface Killer",
+      "clicked": false,
+      "image":
+        "images/monsters/ghostface.png"
+    },
+    {
+      "id": 9,
+      "name": "Hannibal",
+      "clicked": false,
+      "image":
+        "images/monsters/hannibal.png"
+    },
+    {
+      "id": 10,
+      "name": "Jack Skellington",
+      "clicked": false,
+      "image":
+        "images/monsters/jack.png"
+    },
+    {
+      "id": 11,
+      "name": "Jason Voorhees",
+      "clicked": false,
+      "image":
+        "images/monsters/jason.png"
+    },
+    {
+      "id": 12,
+      "name": "Jigsaw",
+      "clicked": false,
+      "image":
+        "images/monsters/jigsaw.png"
+    },
+    {
+      "id": 13,
+      "name": "The Mummy",
+      "clicked": false,
+      "image":
+        "images/monsters/mummy.png"
+    },
+    {
+      "id": 14,
+      "name": "Pennywise",
+      "clicked": false,
+      "image":
+        "images/monsters/pennywise.png"
+    },
+    {
+      "id": 15,
+      "name": "Pirate",
+      "clicked": false,
+      "image":
+        "images/monsters/pirate.png"
+    },
+    {
+      "id": 16,
+      "name": "Pumpkinhead",
+      "clicked": false,
+      "image":
+        "images/monsters/pumpkinhead.png"
+    }
+  ]
